@@ -1,0 +1,18 @@
+{
+    "Ads": [
+        {
+	    "status_app":"0",	
+            "link_redirect": "http://www.google.com",
+            "select_lvl1_ads": "fan",
+            "select_lvl2_ads": "admob",
+            "select_lvl3_ads": "max",
+            "lvl_1_ads_intertitial": "YOUR_PLACEMENT_ID",
+            "lvl_2_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+            "lvl_3_ads_intertitial": "2838649e0b560a68",
+            "lvl_1_ads_banner": "YOUR_PLACEMENT_ID",
+            "lvl_2_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+            "lvl_3_ads_banner": "ae44996e2b723dcf",
+            "interval": 2
+        }
+    ]
+}
